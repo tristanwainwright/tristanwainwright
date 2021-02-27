@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, C#**
 
-- 💬 Ask me about **Quazar**
+- 💬 Ask me about **Quazar** 🌌
 
 - 📫 How to reach me **tmw349@drexel.edu**
 
