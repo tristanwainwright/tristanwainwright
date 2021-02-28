@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tristanwainwright&label=Profile%20views&color=b6d7ec&style=plastic" alt="tristanwainwright" /> </p>
 
-- 🔭 I’m currently working on **milkdromeda-archive**
+- 🔭 I’m currently working on **milkomeda-archive**
 
 - 🌱 I’m currently learning **JavaScript, C#**
 
